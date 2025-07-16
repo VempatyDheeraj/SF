@@ -1,5 +1,3 @@
-# Salesforce_Assignment
-
 Tech stack and Tools used
 
 Python
