@@ -99,3 +99,7 @@ Jupyter notebooks documenting the ETL and analytics workflow:
 
 > This project demonstrates a complete data-to-dashboard solution for retail analytics use cases.  
 > Focused on building trust through clean, insightful, and efficient data pipelines.
+
+---
+---
+**LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/dheerajkrvempaty/)  <sub>(Right-click or Ctrl+Click to open in a new tab)</sub>
