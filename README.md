@@ -29,7 +29,7 @@ The goal of this project was to:
 
 ## 📈 Dashboard
 
-<a href="[https://your-dashboard-link.com](https://lookerstudio.google.com/reporting/f308f1ef-97bf-4173-8854-cf38d6772227/page/ZwWRF)" target="_blank">🔗 Click here to access the Looker Studio Dashboard</a>
+<a href="https://lookerstudio.google.com/reporting/f308f1ef-97bf-4173-8854-cf38d6772227/page/ZwWRF" target="_blank">🔗 Click here to access the Looker Studio Dashboard</a>
 
 
 This dashboard provides:
