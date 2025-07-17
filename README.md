@@ -102,4 +102,4 @@ Jupyter notebooks documenting the ETL and analytics workflow:
 
 ---
 ---
-**LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/dheerajkrvempaty/)  <sub>(Right-click or Ctrl+Click to open in a new tab)</sub>
+**LinkedIn**: [https://www.linkedin.com/in/dheerajkrvempaty/]  <sub>(Right-click or Ctrl+Click to open in a new tab)</sub>
