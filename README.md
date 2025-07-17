@@ -45,7 +45,7 @@ This dashboard provides:
 ## 📂 Workflow Steps
 
 1. **Identify sample datasets for assignment**  
-   Datasets covering *Customers, Products, Stores, Dates, Transactions* were identified and enriched for realism.
+   Datasets covering *Customers, Products, Stores, Transactions* were identified and enriched for realism.
 
 2. **Load data to stage tables**  
    Raw CSV files were loaded into BigQuery staging tables using Python and SQL.
@@ -68,6 +68,9 @@ This dashboard provides:
    Reporting layer was connected to Looker Studio to build an interactive dashboard for business users.
 
 ---
+## ✅ Technical Highlights
+   **Partitioning and Clustering:**
+   Used in the Reporting Layer to improve query performance and reduce cost.
 
 ## 📒 Notebooks
 
