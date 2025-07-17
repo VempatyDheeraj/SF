@@ -101,5 +101,3 @@ Jupyter notebooks documenting the ETL and analytics workflow:
 > Focused on building trust through clean, insightful, and efficient data pipelines.
 
 ---
----
-**LinkedIn**: [https://www.linkedin.com/in/dheerajkrvempaty/]  <sub>(Right-click or Ctrl+Click to open in a new tab)</sub>
