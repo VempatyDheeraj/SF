@@ -71,6 +71,8 @@ This dashboard provides:
 ## ✅ Technical Highlights
    **Partitioning and Clustering:**
    Used in the Reporting Layer to improve query performance and reduce cost.
+   **Schema Management:**
+   **SCD2 Dimension and fact tables** 
 
 ## 📒 Notebooks
 
