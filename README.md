@@ -72,7 +72,10 @@ This dashboard provides:
 1. **Partitioning and Clustering:**
    Used in the Reporting Layer to improve query performance and reduce cost.
 2. **Schema Management:**
-3. **SCD2 Dimension and fact tables** 
+3. **SCD2 Dimension and fact tables**
+4. **Job Monitoring dashboard**
+5. **Denormalization Strategy:**
+   A final denormalized reporting table is built in BigQuery combining key dimensions for fast dashboarding.
 
 ## 📒 Notebooks
 
