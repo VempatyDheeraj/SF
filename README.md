@@ -13,7 +13,8 @@ The goal of this project was to:
 - Build a robust ETL pipeline to ingest, clean, transform, and persist customer purchase data  
 - Perform data quality checks and reconciliation to ensure trust in insights  
 - Generate a denormalized reporting table with relevant dimensions and measures  
-- Build an interactive dashboard to visualize customer behavior and sales trends  
+- Build an interactive dashboard to visualize customer behavior and sales trends
+- Identify customer characteristics and predict how likey a customer will make next purchase in a month.
 
 ---
 
